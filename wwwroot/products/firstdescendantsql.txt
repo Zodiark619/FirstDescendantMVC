@@ -1,0 +1,11 @@
+
+INSERT INTO Products (Name, Rarity, Category, Price, Description, ImageFileName, CreatedAt)
+VALUES
+('Ultimate Gley Code', 'Ultimate', 'Code', 2000, 'research ultimate gley as soon as possible', 'Ultimate_Gley_Code.webp', GETDATE()),
+
+('Valby Spiral Catalyst Blueprint', 'Rare', 'Blueprint', 100, 'research valby as soon as possible', 'Valby_Spiral_Catalyst.webp', GETDATE()),
+('Super Senses', 'Descendant', 'Modules', 1000, 'gley descendant mod', 'supersenses.png', GETDATE()),
+('Synthesized Artificial Biometal', 'Rare', 'Basic Material', 10, 'used to research weapon materials', 'Synthesized_Artificial_Biometal.webp', GETDATE()),
+('Superalloy', 'Standard', 'Basic Material', 1, 'used to research phase exchanger', 'Superalloy.webp', GETDATE())
+
+
